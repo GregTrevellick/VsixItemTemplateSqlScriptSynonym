@@ -1,13 +1,11 @@
-﻿IF NOT EXISTS
-            (SELECT 1
-            FROM sys.procedures pro
-	        INNER JOIN sys.schemas sch ON sch.schema_id = pro.schema_id
-            WHERE sch.[name] = 'dbo'
-	        AND pro.[name] = 'MySproc')
+﻿IF EXISTS 
+        (SELECT 1 
+        FROM sys.synonyms syn
+        INNER JOIN sys.schemas sch ON sch.schema_id = syn.schema_id
+        WHERE sch.[name] = 'dbo'
+        AND syn.[name] = 'MySynonym') 
 BEGIN
-    EXECUTE('CREATE PROCEDURE dbo.MySproc AS SELECT NULL')
+	DROP SYNONYM dbo.MySynonym
 END
-GO
 
-ALTER PROCEDURE dbo.MySproc AS
-    SELECT 1
+CREATE SYNONYM dbo.MySynonym FOR TargetDatabase.dbo.TargetObject
