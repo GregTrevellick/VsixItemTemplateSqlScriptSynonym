@@ -4,7 +4,7 @@
     <Name>SQL Server Synonym Script</Name>
     <Description>An item template SQL Server script for creating / altering a synonym</Description>
     <Icon>ItemTemplate.ico</Icon>
-    <TemplateID>50ff8065-716f-4581-8e6d-2aebe7044f55</TemplateID>
+    <TemplateID>E63FE431-9EAA-4B62-A8FB-D6C9BE9E077C</TemplateID>
     <ProjectType>CSharp</ProjectType>
 	<RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
