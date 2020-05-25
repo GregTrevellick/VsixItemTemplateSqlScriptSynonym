@@ -4,7 +4,7 @@
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixItemTemplateSqlScriptSynonym?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixItemTemplateSqlScriptSynonym)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/)](https://www.codacy.com/project/gtrevellick/VsixItemTemplateSqlScriptSynonym/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixItemTemplateSqlScriptSynonym&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/224f3e1b53144690a41cdc44f94ae0b0)](https://www.codacy.com/project/gtrevellick/VsixItemTemplateSqlScriptSynonym/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixItemTemplateSqlScriptSynonym&amp;utm_campaign=Badge_Grade_Dashboard)
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixItemTemplateSqlScriptSynonym/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixItemTemplateSqlScriptSynonym)
   [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixItemTemplateSqlScriptSynonym.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixItemTemplateSqlScriptSynonym/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixItemTemplateSqlScriptSynonym.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixItemTemplateSqlScriptSynonym/context:javascript)
@@ -27,7 +27,7 @@
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixItemTemplateSqlScriptSynonym&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixItemTemplateSqlScriptSynonym&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixItemTemplateSqlScriptSynonym&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixItemTemplateSqlScriptSynonym&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixItemTemplateSqlScriptSynonym&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixItemTemplateSqlScriptSynonym&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixItemTemplateSqlScriptSynonym)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/cs6nmt4xi0n7awdn?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixItemTemplateSqlScriptSynonym)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixItemTemplateSqlScriptSynonym.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixItemTemplateSqlScriptSynonym/build/tests)
  [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
