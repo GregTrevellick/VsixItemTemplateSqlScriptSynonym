@@ -35,10 +35,10 @@
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptSynonym/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptSynonym-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptSynonym-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
 
 
 
